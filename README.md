@@ -83,7 +83,9 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
-### Fig 4:cds.lib file Creation
+![Screenshot 2024-11-17 181553](https://github.com/user-attachments/assets/b4e19a97-899c-40a7-9b6b-a98b64df2b51)
+
+Fig 4:cds.lib file Creation
 
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
 
